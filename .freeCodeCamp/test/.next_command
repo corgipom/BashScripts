@@ -161,3 +161,117 @@ history -a
 ./fortune.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 5 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $(( RANDOM % 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

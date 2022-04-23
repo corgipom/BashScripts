@@ -275,3 +275,9 @@ history -a
 clear
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+hep
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

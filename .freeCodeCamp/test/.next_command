@@ -404,3 +404,6 @@ history -a
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 vi fortune.sh
+./fortune.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

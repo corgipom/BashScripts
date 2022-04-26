@@ -416,3 +416,14 @@ history -a
 ./fortune.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch fice.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+rm fice.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch five.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

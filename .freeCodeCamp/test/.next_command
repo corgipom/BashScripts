@@ -436,3 +436,4 @@ history -a
 chmod +x five.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+vi five.sh
